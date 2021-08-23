@@ -1,0 +1,112 @@
+{
+  "items":[
+    {
+     "text": "Getting Started",
+      "items": [
+        {
+          "text": "Glossary",
+          "path": "glossary.md"
+        },
+        {
+          "text": "Assumptions",
+          "path": "assumptions.md"
+        },
+        {
+          "text": "System Interaction Model",
+          "path": "systeminteractionmodel.md"
+        },
+        {
+          "text": "Connecting To MQTT Server",
+          "items": [
+            {
+              "text": "Connecting to MQTT Server",
+              "path": "connectiontomqttserver.md"
+            },
+            {
+              "text": "Connection Parameters",
+              "path": "connectionparameter.md"
+            },
+            {
+              "text": "TLS/SSL Configuration(If Device Supports SSl)",
+              "path": "tslssl.md"
+            },
+            {
+              "text": "Example in python(MQTT Connect)",
+              "path": "pythoneg.md"
+            },
+            {
+              "text": "Subscribe and Publish Message",
+              "path": "spmessage.md"
+            }
+          
+        ]
+      },
+      {
+        "text": "Pre-Register device and Retrieve Password",
+        "path": "preregister.md"
+      },
+      {
+    "text": "Telemetry",
+    "items": [
+     
+      {
+        "text": "Steps to send telemetry to cloud",
+        "path": "sending.md"
+      }
+    
+  ]
+},
+{
+  "text": "Configuration Exchange with Cloud",
+  "items": [
+    {
+      "text": "Configuration Exchange with Cloud",
+      "path": "configuration.md"
+    },
+    {
+      "text": "Retriving Complete Configuration From Cloud",
+      "path": "retriving.md"
+    },
+    {
+      "text": "Listen To Configuration Changes from Cloud",
+      "path": "list.md"
+    },
+    {
+      "text": "Update Configuration Changes to Cloud",
+      "path": "update.md"
+    }
+]
+},
+{
+  "text": "Commanding Edge Device From Cloud",
+  "items": [
+    {
+      "text": "Commanding Edge Device From Cloud",
+      "path": "commanding.md"
+    },
+    {
+      "text": "Steps To Receive Commands From Cloud",
+      "path": "stepstorecive.md"
+    }
+]
+},
+{
+  "text": "Cloud to Device Message",
+  "items": [
+    {
+      "text": "Cloud to Device Message", 
+      "path": "cloudtodevice.md"
+    },{
+      "text": "Steps to receive Messages from Cloud",
+      "path": "stepstorecivemessage.md" 
+    }
+]
+},
+{
+  "text": "Let Us Know What you Think",
+  "path": "uploadfiles.md"
+}
+      ]
+    }
+  ]
+}
